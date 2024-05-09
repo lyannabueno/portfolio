@@ -1,0 +1,26 @@
+{
+  "name": "new-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "gulp": "gulp",
+    "sass": "sass --watch dev/styles/main.scss dist/styles/main.css",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^5.0.0",
+    "gulp-obfuscate": "^0.2.9",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "sass": "^1.77.0"
+  },
+  "dependencies": {
+    "gulp-imagemin": "^7.1.0",
+    "jquery-validation": "^1.20.0",
+    "node": "^22.1.0"
+  }
+}
