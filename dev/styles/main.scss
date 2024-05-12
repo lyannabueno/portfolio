@@ -162,13 +162,13 @@ header {
             h2 {
                 font-size: 31px;
 
-                @media (max-width: 768px) {
+                @media (max-width: 767px) {
                     font-size: 28px;
                 }
 
                 padding-bottom: 30px;
 
-                @media (min-width: 767px) and (max-width: 1023px) {
+                @media (min-width: 768px) and (max-width: 1023px) {
                     font-size: 19px
                 }
             }
@@ -184,7 +184,7 @@ header {
                     border-radius: 5px;
                     cursor: pointer;
     
-                    @media (max-width: 768px) {
+                    @media (max-width: 767px) {
                         font-size: 24px;
                     }
                 }
@@ -371,7 +371,7 @@ header {
                     height: 6vh;
                 }
 
-                @media (min-width: 768px) and (max-width: 1024px) {
+                @media (min-width: 768px) and (max-width: 1023px) {
                     margin: 0 37px 0px 80px;
                 }
             }
@@ -516,7 +516,7 @@ header {
                 height: 113vh;
             }
 
-            @media (min-width: 767px) and (max-width: 1023px) {
+            @media (min-width: 768px) and (max-width: 1023px) {
                 height: 50%;
             }
             @media (min-width: 1024px) {
@@ -525,7 +525,7 @@ header {
         }
 
         h2 {
-            @media (max-width: 768px) {
+            @media (max-width: 767px) {
                 margin-left: 20px;
             }
         }
@@ -540,7 +540,7 @@ header {
                 margin: 0 20px;
             }
 
-            @media (min-width: 768px) and (max-width: 1024px) {
+            @media (min-width: 768px) and (max-width: 1023px) {
                 grid-template-columns: 2fr 3fr 1fr;
                 grid-gap: 0px;
             }
