@@ -1,7 +1,5 @@
 # Ana Bueno - Perfil Pessoal 💻
 
-Bem-vindo ao meu perfil pessoal! Aqui você encontrará uma visão detalhada sobre mim, minhas habilidades, projetos e como entrar em contato.
-
 ![Captura de tela de 2024-05-12 22-04-20](https://github.com/lyannabueno/portfolio/assets/130186281/954df309-1690-419d-932c-ebe3e0392eab)
 
 ## Tecnologias Utilizadas 📚
