@@ -1,41 +1,42 @@
-# Ana Bueno - Perfil Pessoal 💻
+# Ana Bueno - Personal Profile 💻
 
-![Captura de tela de 2024-05-12 22-04-20](https://github.com/lyannabueno/portfolio/assets/130186281/954df309-1690-419d-932c-ebe3e0392eab)
+![Screenshot from 2024-05-12 22-04-20](https://github.com/lyannabueno/portfolio/assets/130186281/954df309-1690-419d-932c-ebe3e0392eab)
 
-## Tecnologias Utilizadas 📚
+## Technologies Used 📚
 
-- **HTML5**: Utilizado para estruturar o conteúdo da página web.
-- **SCSS**: Utilizado para escrever estilos de forma eficiente e modular, juntamente com a metodologia BEM (Block Element Modifier), que organiza o HTML e CSS de maneira semântica e consistente, dividindo elementos em blocos, elementos e modificadores para facilitar a manutenção e colaboração no desenvolvimento.
-- **JavaScript**: Gerencia as interações dinâmicas na página, como a resposta aos cliques nos itens do menu de navegação.
-- **Bootstrap 5.3.3**: Framework CSS usado para criar um design responsivo e acessível, incluindo um sistema de grid para layouts adaptáveis, componentes interativos como modais e tooltips, e utilitários de CSS para estilização rápida.
-- **Google Fonts**: Fornece uma variedade de fontes que melhoram a estética visual da página e garantem a consistência tipográfica.
-- **Grunt**: Automatização de tarefas como minificação de CSS/JS e otimização de imagens.
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/grunt-%23FBA928.svg?style=for-the-badge&logo=grunt&logoColor=black" alt="Grunt">
+</p>
 
-## Sobre Mim 🌟
+## About Me 🌟
 
-**Formação e Experiência:** 
+**Education and Experience:** 
 
-Explore minha experiência profissional e habilidades técnicas.
+Explore my professional experience and technical skills.
 
-**Habilidades:**  
-Descubra minhas ferramentas de trabalho na programação, design, gerenciamento de projetos e muito mais.
+**Skills:**  
+Discover the tools I use in programming, design, project management, and more.
 
-## Projetos 💼
+## Projects 💼
 
-**Visualização de Projetos:**  
-Confira alguns dos projetos que desenvolvi com links para repositórios ou visualização online.
+**Project Showcase:**  
+Check out some of the projects I've developed with links to repositories or online demos.
 
-**Contribuições:**  
-Aceito contribuições para melhorar meus projetos! Se você tem ideias ou sugestões, fique à vontade para enviar um pull request.
+**Contributions:**  
+I welcome contributions to improve my projects! If you have ideas or suggestions, feel free to submit a pull request.
 
-## Contato 📩
+## Contact 📩
 
-Para mais informações ou colaborações, entre em contato:
+For more information or collaborations, please contact me:
 
-E-mail: anabuenogomes@hotmail.com  
+Email: anabuenogomes@hotmail.com  
 
 LinkedIn: https://www.linkedin.com/in/anabuenogomes
 
 GitHub: https://github.com/lyannabueno
 
-Divirta-se explorando meu perfil pessoal! 🚀
+Enjoy exploring my personal profile! 🚀
